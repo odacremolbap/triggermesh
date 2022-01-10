@@ -34,7 +34,7 @@ require (
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.0+incompatible
 	github.com/amenzhinsky/iothub v0.8.0
 	github.com/andygrunwald/go-jira v1.14.0
-	github.com/aws/aws-sdk-go v1.42.20
+	github.com/aws/aws-sdk-go v1.42.30
 	github.com/clbanning/mxj v1.8.4
 	github.com/devigned/tab v0.1.1
 	github.com/elastic/go-elasticsearch/v7 v7.16.0
@@ -61,7 +61,7 @@ require (
 	go.opentelemetry.io/otel/metric v0.24.0
 	go.opentelemetry.io/otel/sdk/metric v0.24.0
 	go.uber.org/zap v1.19.1
-	golang.org/x/net v0.0.0-20211020060615-d418f374d309
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	google.golang.org/api v0.61.0
 	google.golang.org/genproto v0.0.0-20211118181313-81c1377c94b1
